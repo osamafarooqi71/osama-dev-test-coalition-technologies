@@ -1,0 +1,5 @@
+[environments.this]
+store = "osama-dev-test-coalition-technologies"
+
+[environments.this-osama]
+store = "osama-dev-test-coalition-technologies"
